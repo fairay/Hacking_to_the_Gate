@@ -2,7 +2,7 @@ from tkinter import *
 
 root = Tk()
 
-Label(root, text = "Hello worl").pack()
+Label(root, text = "Hello world").pack()
 
 i = 0
 
